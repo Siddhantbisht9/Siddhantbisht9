@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddhantbisht9
-- 👀 I’m interested in Cloud
-- 🌱 I’m currently learning Python
+- 👀 I am into cloud services
+- 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me siddhantbisht9@gmail.com
 - 😄 Pronouns: ...
